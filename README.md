@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white" alt="Bash">
     <img src="https://img.shields.io/badge/OS-Fedora%2043-51A2DA?logo=fedora&logoColor=white" alt="Fedora">
     <img src="https://img.shields.io/badge/Kernel-6.19.9--200.fc43.x86__64-000000?logo=linux&logoColor=white" alt="Kernel">
-    <img src="https://img.shields.io/badge/License-Academic%20Coursework-lightgrey" alt="License">
 </p>
 
 </div>
